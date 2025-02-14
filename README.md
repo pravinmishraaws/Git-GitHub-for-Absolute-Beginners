@@ -2,12 +2,12 @@
 
 ### ** Git & GitHub for Absolute Beginners – Course Repository**
 📖 _A practical hands-on companion repository for the Udemy course_  
-**"Git & GitHub for Absolute Beginners"** by **Pravin Mishra[https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4]**  
+**"[Git & GitHub for Absolute Beginners"** by **Pravin Mishra](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)**  
 
 ---
 
 ## **About This Repository**
-Welcome to the **official companion repository** for the Udemy course **"Git & GitHub for Absolute Beginners.[https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4]"** This repo contains **supplementary learning material, exercises, and practical examples** to help you **master Git and GitHub** step by step.
+Welcome to the **official companion repository** for the Udemy course **"[Git & GitHub for Absolute Beginners.](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)"** This repo contains **supplementary learning material, exercises, and practical examples** to help you **master Git and GitHub** step by step.
 
 🔹 **What You’ll Find in This Repository?**  
 ✅ **Lecture-wise Notes** – Summarized content for quick revision.  
@@ -29,7 +29,7 @@ This course is designed for **absolute beginners** who want to learn **Git & Git
 ✔️ Collaborate using **GitHub repositories**  
 ✔️ Push, pull, and clone repositories like a pro  
 
-📌 If you haven’t enrolled in the course yet, you can find it here: **[https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4](#)**  
+📌 If you haven’t enrolled in the course yet, you can find it **[here]:**(https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
 
 ---
 
