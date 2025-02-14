@@ -9,17 +9,17 @@
 ## **About This Repository**
 Welcome to the **official companion repository** for the Udemy course **"[Git & GitHub for Absolute Beginners.](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)"** This repo contains **supplementary learning material, exercises, and practical examples** to help you **master Git and GitHub** step by step.
 
-🔹 **What You’ll Find in This Repository?**  
-✅ **Lecture-wise Notes** – Summarized content for quick revision.  
-✅ **Hands-On Exercises** – Practice tasks to reinforce learning.  
-✅ **Git Commands Cheat Sheet** – Quick reference for important Git commands.  
-✅ **Real-World Scenarios** – Examples of Git workflows in professional environments.  
-✅ **Collaboration Best Practices** – GitHub contribution guides for open-source projects.  
-✅ **Bonus Material** – Useful links, resources, and additional reading.  
+**What You’ll Find in This Repository?**  
+**Lecture-wise Notes** – Summarized content for quick revision.  
+**Hands-On Exercises** – Practice tasks to reinforce learning.  
+**Git Commands Cheat Sheet** – Quick reference for important Git commands.  
+**Real-World Scenarios** – Examples of Git workflows in professional environments.  
+**Collaboration Best Practices** – GitHub contribution guides for open-source projects.  
+**Bonus Material** – Useful links, resources, and additional reading.  
 
 ---
 
-## 📚 **Course Overview**
+## **Course Overview**
 This course is designed for **absolute beginners** who want to learn **Git & GitHub** from scratch. By the end of this course, you will:  
 
 ✔️ Understand **Git as a version control system**  
@@ -29,11 +29,11 @@ This course is designed for **absolute beginners** who want to learn **Git & Git
 ✔️ Collaborate using **GitHub repositories**  
 ✔️ Push, pull, and clone repositories like a pro  
 
-📌 If you haven’t enrolled in the course yet, you can find it **[here]:**(https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
+📌 If you haven’t enrolled in the course yet, you can find it **[here]**(https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
 
 ---
 
-## 📂 **Repository Structure**
+## **Repository Structure**
 This repository is organized into **sections matching the course lectures**:  
 
 ```
