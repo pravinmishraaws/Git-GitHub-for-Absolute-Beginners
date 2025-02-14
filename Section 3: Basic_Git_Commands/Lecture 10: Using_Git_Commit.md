@@ -77,32 +77,9 @@ This means:
 
 ---
 
-## **Viewing Commit History**
-After making commits, you can view the commit history using:
-```
-git log
-```
-This shows:
-- **Commit hash** (unique identifier)
-- **Author of the commit**
-- **Date and time**
-- **Commit message**
-
-✅ **Example Output**:
-```
-commit 4f5a6b7c8d9e (HEAD -> master)
-Author: John Doe <johndoe@example.com>
-Date:   Mon Feb 19 10:00:00 2025 +0000
-
-    Initial commit
-```
-
----
-
 ## **Key Takeaways**
 ✔️ `git commit` saves changes **permanently** in Git’s history.  
-✔️ Every commit requires a **descriptive message** to explain what changed.  
-✔️ Commit history can be viewed using `git log`.  
+✔️ Every commit requires a **descriptive message** to explain what changed.   
 ✔️ A commit is like a **snapshot of your project** at a specific point in time.  
 
-Now that we have committed our changes, let’s move on to **viewing commit history** in the next lecture. 🚀
+Now that we have committed our changes, let’s move on to **viewing commit history: git log** in the next lecture. 🚀
