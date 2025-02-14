@@ -16,7 +16,8 @@ To understand version control, let’s take an example from everyday life.
 
 Imagine you’re writing a novel. You finish **Chapter 1** and save the document. The next day, you make edits and save the file as **"Chapter_1_v2.docx"**.  
 
-Later, you realize you preferred the original version. But now, your document is cluttered with multiple versions like:  
+Later, you realize you preferred the original version. But now, your document is cluttered with multiple versions like:
+
 ✅ Chapter_1_v1.docx  
 ✅ Chapter_1_v2.docx  
 ✅ Chapter_1_final.docx  
