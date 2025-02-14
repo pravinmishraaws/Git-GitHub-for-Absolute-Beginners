@@ -69,44 +69,6 @@ Every time you edit a file and save it, **Git does NOT track it automatically**.
 
 Think of it like **saving progress in a video game**. The **working directory** is when you’re playing, the **staging area** is like taking a screenshot of your progress, and **committing** is saving the game so you can return to it later.  
 
-To start using Git, you need to **initialize** a repository.  
-
----
-
-### **Initializing a Local Git Repository**  
-
-#### **Step 1: Create a Project Folder**  
-Before initializing a repository, navigate to the folder where your project is stored.  
-
-**Windows (Command Prompt):**  
-
-```sh
-mkdir Mini-Finance
-cd Mini-Finance
-```
-
-**Mac/Linux (Terminal):**  
-
-```sh
-mkdir Mini-Finance && cd Mini-Finance
-```
-
-#### **Step 2: Initialize Git in the Project Folder**  
-To turn this folder into a **Git repository**, run:  
-
-```sh
-git init
-```
-
-**Expected Output:**  
-
-```
-Initialized empty Git repository in /Users/yourname/Mini-Finance/.git/
-```
-
-At this point, Git starts **tracking changes** in this directory. However, the repository is still empty. You need to **add and commit files** to start tracking versions.  
-
----
 
 ### **Why Should You Use a Git Repository?**  
 
