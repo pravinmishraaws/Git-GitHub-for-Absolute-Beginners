@@ -1,6 +1,6 @@
 # Git-GitHub-for-Absolute-Beginners
 
-### ** Git & GitHub for Absolute Beginners – Course Repository**
+### **Git & GitHub for Absolute Beginners – Course Repository**
 📖 _A practical hands-on companion repository for the Udemy course_  
 **[Git & GitHub for Absolute Beginners"** by **Pravin Mishra](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)**  
 
