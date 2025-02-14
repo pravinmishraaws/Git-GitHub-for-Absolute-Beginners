@@ -1,4 +1,4 @@
-## **Mini Finance Project - CloudAdvisory Onboarding Task**
+## **[Mini Finance Project](https://www.tooplate.com/live/2135_mini_finance) - CloudAdvisory Onboarding Task**
 
 This project is part of My Udemy Course [Git & GitHub for Absolute Beginners with Project](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
 
@@ -11,7 +11,7 @@ This is not just an academic exercise—you will follow **industry-standard Git 
 ---
 
 ## **🎯 Project Overview: What is Mini Finance?**  
-The **Mini Finance** project is a **static website** that helps users manage their financial data. The key sections include:
+The **[Mini Finance](https://www.tooplate.com/live/2135_mini_finance)** project is a **static website** that helps users manage their financial data. The key sections include:
 
 ✅ **Dashboard Overview** – Displays account balance, transactions, and financial insights.  
 ✅ **Profile Page** – Stores user details like name, email, and contact information.  
