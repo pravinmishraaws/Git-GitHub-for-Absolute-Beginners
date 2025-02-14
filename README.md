@@ -9,7 +9,8 @@
 ## **About This Repository**
 Welcome to the **official companion repository** for the Udemy course **[Git & GitHub for Absolute Beginners.](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)** This repo contains **supplementary learning material, exercises, and practical examples** to help you **master Git and GitHub** step by step.
 
-**What You’ll Find in This Repository?**  
+## What You’ll Find in This Repository?** 
+ 
 **Lecture-wise Notes** – Summarized content for quick revision.  
 **Hands-On Exercises** – Practice tasks to reinforce learning.  
 **Git Commands Cheat Sheet** – Quick reference for important Git commands.  
