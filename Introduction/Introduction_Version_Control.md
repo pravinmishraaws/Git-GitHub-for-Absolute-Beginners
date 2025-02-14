@@ -47,12 +47,13 @@ Version Control Systems (VCS) work in a similar way but for **software code**.
 ## **Why is Version Control Important?**
 Here’s a **real-world scenario** to illustrate why version control is crucial:  
 
-🚀 Imagine a software company building an **e-commerce website**. Developers are working on different sections—payments, product listings, and user accounts.  
+Imagine a software company building an **e-commerce website**. Developers are working on different sections—payments, product listings, and user accounts.  
 
 Without version control:
-❌ Developer A makes a change that accidentally deletes Developer B’s code.  
-❌ The website crashes, and they can’t undo the changes.  
-❌ The team has no record of who made what changes.  
+
+- Developer A makes a change that accidentally deletes Developer B’s code.
+- The website crashes, and they can’t undo the changes.
+- The team has no record of who made what changes.  
 
 With version control:
 ✅ Every change is **saved as a version** (like a checkpoint).  
@@ -67,9 +68,10 @@ Version control **makes software development faster, safer, and more organized**
 A version control system stores project files in a **repository**. Every time you make changes, you **commit** them to the repository, which creates a **new version** of the project.
 
 A simple workflow looks like this:
-1️⃣ **Initialize a repository** (Start tracking files).  
-2️⃣ **Make changes** and save them as new versions.  
-3️⃣ **Collaborate** by merging changes from different developers.  
-4️⃣ **Revert** back to older versions if needed.  
+
+- **Initialize a repository** (Start tracking files).
+- **Make changes** and save them as new versions.
+- **Collaborate** by merging changes from different developers.
+- **Revert** back to older versions if needed.  
 
 In the next lecture, we’ll introduce **Git**—one of the most popular version control systems.  
