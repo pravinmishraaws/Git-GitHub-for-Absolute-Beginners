@@ -29,7 +29,7 @@ This course is designed for **absolute beginners** who want to learn **Git & Git
 ✔️ Collaborate using **GitHub repositories**  
 ✔️ Push, pull, and clone repositories like a pro  
 
-📌 If you haven’t enrolled in the course yet, you can find it **[here]**(https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
+📌 If you haven’t enrolled in the course yet, you can find it [here](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
 
 ---
 
