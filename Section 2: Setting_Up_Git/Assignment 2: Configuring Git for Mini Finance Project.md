@@ -1,4 +1,4 @@
-### **Assignment 1: Configuring Git for Mini Finance Project**  
+### **Assignment 2: Configuring Git for Mini Finance Project**  
 
 #### **Title:**  
 Setting Up Git and Preparing for Mini Finance Contribution  
