@@ -57,6 +57,7 @@ Without version control:
 - The team has no record of who made what changes.  
 
 With version control:
+
 ✅ Every change is **saved as a version** (like a checkpoint).  
 ✅ Developers can **restore previous versions** anytime.  
 ✅ Multiple developers can work **simultaneously** without conflicts.  
