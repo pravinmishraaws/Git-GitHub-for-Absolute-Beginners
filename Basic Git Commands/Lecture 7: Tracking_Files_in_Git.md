@@ -122,4 +122,4 @@ Untracked files:
 ---
 
 ## **🚀 What’s Next?**
-Git can now see our file, but it **isn't tracking it yet**. In the next lesson, we will learn how to **add files to Git, commit changes, and track version history**!
+Git can now see our file, but it **isn't tracking it yet**. In the next lesson, we will learn in details about **git status**!
