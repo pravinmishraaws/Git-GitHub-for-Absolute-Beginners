@@ -47,5 +47,5 @@
 
 
 
-✅ **Key Takeaway**:
+## Key Takeaway**:
 We need Git because it provides **version control, branching, merging, and collaboration**, making it possible for individuals and teams to develop software safely, efficiently, and together.
