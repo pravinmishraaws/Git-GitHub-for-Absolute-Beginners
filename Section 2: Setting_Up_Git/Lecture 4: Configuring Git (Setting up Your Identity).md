@@ -93,6 +93,6 @@ git config --list
 
 ---
 
-### Key Takeaway**:
+### Key Takeaway:
 ✅  Configuring Git ensures your commits are properly attributed to you. Use `--global` for all projects, or `--local` for project-specific identities.
 
