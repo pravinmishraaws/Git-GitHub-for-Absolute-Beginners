@@ -96,6 +96,6 @@ ls -a
 
 ---
 
-### Key Takeaway**:
+### Key Takeaway:
 ✅  Running `git init` transforms a simple folder into a **Git repository** by adding the hidden `.git` folder. This is the foundation for tracking and managing your project with Git.
 
