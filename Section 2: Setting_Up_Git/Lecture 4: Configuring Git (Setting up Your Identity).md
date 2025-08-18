@@ -1,4 +1,4 @@
-# 🧪 Lab – Configuring Git (Setting up Your Identity)
+# Lab – Configuring Git (Setting up Your Identity)
 
 ## 1. Why Configure Git?
 
