@@ -1,4 +1,4 @@
-# **Study Notes: Using Git Commit**
+# **Using Git Commit**
 
 Now that we understand how to add files to the **staging area** using `git add`, it’s time to learn how to **save** our changes permanently in the Git repository using `git commit`.
 
@@ -11,12 +11,12 @@ Think of **Git commits** as **checkpoints in your project**—they help you go b
 ## **What is `git commit`?**
 The `git commit` command **permanently records** changes from the **staging area** into the **repository**.
 
-✅ It **saves your work** in Git’s version history.  
-✅ It assigns a **unique identifier** (commit hash) to each change.  
-✅ It allows you to **roll back changes** if needed.  
-✅ It helps **collaborators** understand what changes were made.
+- It **saves your work** in Git’s version history.  
+- It assigns a **unique identifier** (commit hash) to each change.  
+- It allows you to **roll back changes** if needed.  
+- It helps **collaborators** understand what changes were made.
 
-💡 **Analogy:** Think of **committing** like submitting an assignment in school. Until you submit it, your teacher (Git) doesn't recognize your progress.
+**Analogy:** Think of **committing** like submitting an assignment in school. Until you submit it, your teacher (Git) doesn't recognize your progress.
 
 ---
 
@@ -34,14 +34,14 @@ When committing changes, we use the `-m` flag to provide a short description of 
 git commit -m "Short message describing the change"
 ```
 
-✅ **Good commit message examples**:
+**Good commit message examples**:
 ```
 git commit -m "Fixed navigation bar responsiveness"
 git commit -m "Updated README with project setup instructions"
 git commit -m "Refactored API response handling"
 ```
 
-🚫 **Bad commit message examples**:
+**Bad commit message examples**:
 ```
 git commit -m "Fixed stuff"
 git commit -m "Updated files"
@@ -63,7 +63,7 @@ Once your files are staged, commit them using:
 ```
 git commit -m "Initial commit"
 ```
-✅ **Expected Output**:
+**Expected Output**:
 ```
 [master (root-commit) 1a2b3c4] Initial commit
  1 file changed, 10 insertions(+)
