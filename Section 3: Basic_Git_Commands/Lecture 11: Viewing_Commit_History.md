@@ -5,10 +5,10 @@ As we work on a project, we make multiple commits to track changes in our code. 
 To view this **commit history**, we use the `git log` command.
 
 ### **Why is commit history important?**
-- It helps track all changes made to the project over time.  
-- It provides a reference for debugging issues.  
-- It allows collaboration by showing who made specific changes.  
-- It gives us a way to roll back to a previous commit if needed.
+- It helps **track all changes** made to the project **over time**.  
+- It provides a **reference** for **debugging issues**.  
+- It allows collaboration by showing **who made specific changes**.  
+- It gives us a way to **roll back** to a previous commit if needed.
 
 ---
 
