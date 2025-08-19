@@ -108,12 +108,12 @@ Untracked files:
 
 ---
 
-## ** Summary**
+## **Summary**
 ✔ **We created a new file** (`index.html`) inside our Git repository.  
 ✔ **We added content** to the file using an editor.  
 ✔ **We checked the file status** using `git status`, which showed that Git is aware of the new file but is not tracking it yet.  
 
 ---
 
-## **🚀 What’s Next?**
+## ** What’s Next?**
 Git can now see our file, but it **isn't tracking it yet**. In the next lesson, we will learn in details about **git status**!
