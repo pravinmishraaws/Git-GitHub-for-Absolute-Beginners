@@ -1,14 +1,14 @@
-# **Study Notes: Viewing Commit History in Git**
+# **Viewing Commit History in Git**
 
 As we work on a project, we make multiple commits to track changes in our code. Over time, these commits form a **history** of the project, allowing us to see who made changes, what was changed, and when.
 
 To view this **commit history**, we use the `git log` command.
 
 ### **Why is commit history important?**
-✅ It helps track all changes made to the project over time.  
-✅ It provides a reference for debugging issues.  
-✅ It allows collaboration by showing who made specific changes.  
-✅ It gives us a way to roll back to a previous commit if needed.
+- It helps track all changes made to the project over time.  
+- It provides a reference for debugging issues.  
+- It allows collaboration by showing who made specific changes.  
+- It gives us a way to roll back to a previous commit if needed.
 
 ---
 
@@ -21,7 +21,7 @@ Each commit in the log shows:
 - **Date & Time** – When the commit was made.
 - **Commit Message** – A description of what changes were made.
 
-💡 **Analogy:** Think of `git log` as a **diary** that keeps track of all the updates made to your project.
+**Analogy:** Think of `git log` as a **diary** that keeps track of all the updates made to your project.
 
 ---
 
@@ -31,7 +31,7 @@ To see a list of all commits in your repository, use:
 ```
 git log
 ```
-✅ **Expected Output**:
+**Expected Output**:
 ```
 commit 4f5a6b7c8d9e (HEAD -> master)
 Author: John Doe <johndoe@example.com>
@@ -69,7 +69,7 @@ Run `git status` to check the status of the repository:
 ```
 git status
 ```
-✅ **Expected Output**:
+**Expected Output**:
 ```
 Modified: index.html
 ```
@@ -87,7 +87,7 @@ Now, commit the changes with a descriptive message:
 ```
 git commit -m "Updated index.html content"
 ```
-✅ **Expected Output**:
+**Expected Output**:
 ```
 [master 2b3c4d5] Updated index.html content
  1 file changed, 5 insertions(+), 2 deletions(-)
@@ -98,7 +98,7 @@ Run `git log` to view the updated commit history:
 ```
 git log
 ```
-✅ **Expected Output**:
+**Expected Output**:
 ```
 commit 2b3c4d5e6f7g (HEAD -> master)
 Author: John Doe <johndoe@example.com>
@@ -137,7 +137,7 @@ The default `git log` output is **detailed**. You can simplify it using:
 ```
 git log --oneline
 ```
-✅ **Example Output**:
+**Example Output**:
 ```
 2b3c4d5 Updated index.html content
 4f5a6b7 Modified index.html file and added style.css
