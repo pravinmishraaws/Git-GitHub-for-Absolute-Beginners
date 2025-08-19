@@ -1,4 +1,4 @@
-### **Study Notes: Understanding `git status`**  
+### **Understanding `git status`**  
 
 Now that we have successfully initialized our Git repository and created our first file, it’s time to **check the status of our repository** using the `git status` command.  
 
@@ -14,9 +14,9 @@ Now, I will help us understand how Git organizes and tracks changes in our files
 ## **1️⃣ What is `git status`?**  
 The `git status` command gives us **a snapshot of our Git repository** at any given moment. It tells us:  
 
-✔ **Which files are untracked** (new files that Git hasn’t started tracking yet)  
-✔ **Which files have been modified** (files that were changed but not yet saved to Git)  
-✔ **Which files are ready to be committed** (files that are staged and waiting to be saved)  
+**Which files are untracked** (new files that Git hasn’t started tracking yet)  
+**Which files have been modified** (files that were changed but not yet saved to Git)  
+**Which files are ready to be committed** (files that are staged and waiting to be saved)  
 
 Think of `git status` as **a checklist**—it ensures that you don’t forget to save important changes before moving forward.
 
@@ -78,7 +78,7 @@ In our case, `index.html` is listed as an **untracked file**.
 ## **4️⃣ What Does "Untracked File" Mean?**
 An **untracked file** is a file that exists in our Git repository but is **not yet being tracked**.  
 
-💡 **Think of an untracked file like a draft on your computer**—you’ve written it, but it hasn’t been officially saved anywhere yet.
+**Think of an untracked file like a draft on your computer**—you’ve written it, but it hasn’t been officially saved anywhere yet.
 
 For Git to start tracking the file, we need to **add it to the staging area** (we will cover this in the next lecture).
 
@@ -91,21 +91,21 @@ When working on a project, we may:
 - **Forget to save some changes**
 
 By running `git status`, we can always check:
-✔ **What files have been added but not tracked yet**  
-✔ **What files have been modified since the last save**  
-✔ **Which files are ready to be committed**  
+**What files have been added but not tracked yet**  
+**What files have been modified since the last save**  
+**Which files are ready to be committed**  
 
 It acts as a **checkpoint** before we move forward.
 
 ---
 
-## **📝 Summary**
+## **Summary**
 ✔ **We learned about `git status` and its role in Git.**  
 ✔ **We ran `git status` to check the status of our repository.**  
 ✔ **We understood what "untracked files" mean in Git.**  
 
 ---
 
-## **🚀 What’s Next?**
+## ** What’s Next?**
 Right now, our `index.html` file **exists but is not tracked**.  
 In the next lesson, we will **add files to Git using `git add`** and prepare them for the Staging!
