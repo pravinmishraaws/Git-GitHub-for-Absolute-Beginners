@@ -115,5 +115,5 @@ Untracked files:
 
 ---
 
-## ** What’s Next?**
+## **What’s Next?**
 Git can now see our file, but it **isn't tracking it yet**. In the next lesson, we will learn in details about **git status**!
