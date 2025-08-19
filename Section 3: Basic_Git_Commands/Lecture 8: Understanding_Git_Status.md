@@ -106,6 +106,6 @@ It acts as a **checkpoint** before we move forward.
 
 ---
 
-## ** What’s Next?**
+## **What’s Next?**
 Right now, our `index.html` file **exists but is not tracked**.  
 In the next lesson, we will **add files to Git using `git add`** and prepare them for the Staging!
