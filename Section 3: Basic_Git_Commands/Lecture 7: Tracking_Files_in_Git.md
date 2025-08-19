@@ -1,11 +1,5 @@
-### **Study Notes: Creating and Tracking Files in Git**  
+### Creating and Tracking Files in Git**  
 Now that we have successfully initialized our Git repository, it’s time to take the next step—**creating files and tracking changes!**  
-
-But before we dive in, let's think about this:  
-- **How do we tell Git to track a file?**  
-- **How can we check if Git recognizes our changes?**  
-
-In this lesson, we’ll answer these questions and walk through how Git manages files step by step.
 
 ---
 
@@ -114,7 +108,7 @@ Untracked files:
 
 ---
 
-## **📝 Summary**
+## ** Summary**
 ✔ **We created a new file** (`index.html`) inside our Git repository.  
 ✔ **We added content** to the file using an editor.  
 ✔ **We checked the file status** using `git status`, which showed that Git is aware of the new file but is not tracking it yet.  
