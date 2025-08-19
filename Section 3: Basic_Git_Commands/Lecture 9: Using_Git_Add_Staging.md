@@ -1,4 +1,4 @@
-### **Study Notes: Using `git add` to Stage Changes**  
+### **Using `git add` to Stage Changes**  
 
 Now that we have created and modified a file inside our Git repository, we need a way to **prepare it for saving**. Git doesn’t automatically track every change we make—instead, we need to **manually tell Git which changes should be included in the next save** (also known as a commit).  
 
@@ -101,14 +101,14 @@ This will add **all new and modified files** inside the repository to the stagin
 
 ## **6️⃣ Summary**  
 
-✔ **`git add` moves changes to the staging area, preparing them for commit.**  
-✔ **The staging area is like a shipping box—it collects changes before they are officially saved.**  
-✔ **We use `git status` to check which files are staged and ready for commit.**  
-✔ **We can add one file at a time (`git add filename`) or all files at once (`git add .`).**  
+**`git add` moves changes to the staging area, preparing them for commit.**  
+**The staging area is like a shipping box—it collects changes before they are officially saved.**  
+**We use `git status` to check which files are staged and ready for commit.**  
+**We can add one file at a time (`git add filename`) or all files at once (`git add .`).**  
 
 ---
 
-## **🚀 What’s Next?**  
+## **What’s Next?**  
 
 Now that our changes are staged, they still aren’t **permanently saved** in Git.  
 In the next lecture, we will **commit our changes** and officially add them to the Git history!
