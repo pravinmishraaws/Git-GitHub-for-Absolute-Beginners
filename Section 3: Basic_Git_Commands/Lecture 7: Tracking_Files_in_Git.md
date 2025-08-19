@@ -1,4 +1,4 @@
-### **Creating and Tracking Files in Git**  
+## **Creating and Tracking Files in Git**  
 Now that we have successfully initialized our Git repository, it’s time to take the next step—**creating files and tracking changes!**  
 
 ---
