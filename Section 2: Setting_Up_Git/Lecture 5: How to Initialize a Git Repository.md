@@ -85,7 +85,41 @@ ls -a
 
 ---
 
-## 4. Next Steps
+## Understanding .gitignore
+
+**What is .gitignore?**
+
+- A special file in a Git repository
+- Tells Git which files/folders NOT to track
+- Helps keep your repo clean and professional
+
+**Why use .gitignore?**
+
+- Prevents temporary files from being committed
+- Keeps secrets (like API keys, configs) out of GitHub
+- Avoids large, unnecessary files in version history
+
+**Example .gitignore File**
+
+```bash
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore build / dependency folders
+node_modules/
+target/
+
+# Ignore environment configs
+.env
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
+```
+
+## Next Steps
 
 * Now that the repo is initialized, you can use other Git commands:
 
