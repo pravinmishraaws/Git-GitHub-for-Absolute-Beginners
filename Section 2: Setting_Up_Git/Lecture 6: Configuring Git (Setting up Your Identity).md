@@ -70,7 +70,7 @@ git config --local --list         # local list
 
 ## 5. Common Extra Configurations (Optional but Useful)
 
-* **Default Editor** (e.g., VS Code):
+### **Default Editor** (e.g., VS Code):
 
   ```bash
   git config --global core.editor "code --wait"
@@ -89,7 +89,7 @@ Setting it to VS Code (or your favorite editor) makes things much easier.
 
 code --wait = tells VS Code to open the file and pause Git until you close it.
 
-* **Colored Output** for better readability:
+### **Colored Output** for better readability:
 
   ```bash
   git config --global color.ui auto
