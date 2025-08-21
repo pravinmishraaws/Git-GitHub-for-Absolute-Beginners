@@ -75,12 +75,38 @@ git config --local --list         # local list
   ```bash
   git config --global core.editor "code --wait"
   ```
+**What it does**
+
+Tells Git which text editor to open when it needs your input.
+
+Common scenarios:
+- Writing a commit message (if you don’t use -m "msg").
+- Editing a merge conflict.
+- Rebase operations (when Git needs you to reorder/edit commits).
+
+By default, Git often uses Vim — which many beginners find intimidating.
+Setting it to VS Code (or your favorite editor) makes things much easier.
+
+code --wait = tells VS Code to open the file and pause Git until you close it.
 
 * **Colored Output** for better readability:
 
   ```bash
   git config --global color.ui auto
   ```
+
+**What it does**
+
+Adds syntax highlighting & colors to Git’s terminal output.
+
+Example:
+
+- Branch names in green/yellow
+- Added lines in green
+- Removed lines in red
+- Merge conflicts in highlighted sections
+
+This makes Git’s output easier to read, especially when scanning diffs, logs, or status messages.
 
 ---
 
