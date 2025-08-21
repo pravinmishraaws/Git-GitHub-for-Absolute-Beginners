@@ -45,6 +45,10 @@ git config --global user.email "your.email@example.com"
 
 ```bash
 git config --list
+git config --list --show-origin   # where a value comes from
+git config --global --list        # global list
+git config --local --list         # local list
+
 ```
 
 * Shows all Git configurations (name, email, editor, etc.).
