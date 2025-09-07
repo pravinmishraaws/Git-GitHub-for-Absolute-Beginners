@@ -116,10 +116,3 @@ DevOps Micro Internship [Assignment Master Sheets](https://docs.google.com/sprea
 ### For Self-Paced Udemy Students
 
 Submit the assignment by clicking **“Next”** and answering the provided questions.
-
----
-
-```
-
-Would you like me to also add a **submission checklist table** (e.g., *Task | Screenshot Required | Command Used*) so students can tick off as they go?
-```
